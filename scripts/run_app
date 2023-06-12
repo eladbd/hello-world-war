@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo docker run -itd --name war-elad -p 80:80 eladbd/ex2:3
+docker run -itd --name war-elad -p 80:80 eladbd/ex2:3
